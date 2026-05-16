@@ -120,16 +120,6 @@ Insight Generation & Recommendations
 3. **Power BI** — Open `hr_analysis.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 4. **Tableau** — Open `hr_analysis.twbx` in [Tableau Public](https://public.tableau.com/) (free) or Tableau Desktop
 
----
-
-## 👥 Team
-
-| Name | Role |
-|------|------|
-| Chaitanya Girish | Data Analysis & Excel Dashboard |
-| Ankit | SQL Queries & Data Preparation |
-| Ur Rahman | Power BI Report & DAX |
-| Praveen | Tableau Workbook & Storytelling |
 
 ---
 
