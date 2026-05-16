@@ -35,6 +35,30 @@ The same HR dataset was analyzed consistently across **four industry-standard to
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 📗 Excel Dashboard
+
+![Excel Dashboard 1](screenshots/excel_dashboard_1.png)
+
+![Excel Dashboard 2](screenshots/excel_dashboard_2.png)
+
+### ⚡ Power BI Report
+
+![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+
+### 📈 Tableau Dashboard
+
+![Tableau Dashboard](screenshots/tableau_dashboard.png)
+
+### 🗄️ SQL Queries & Results
+
+![SQL Query 1](screenshots/sql_query_1.png)
+
+![SQL Query 2](screenshots/sql_query_2.png)
+
+---
+
 ## 🛠️ Tools & Files
 
 ### 📗 Excel (`hr_analysis.xlsx`)
@@ -52,7 +76,7 @@ The same HR dataset was analyzed consistently across **four industry-standard to
 ### 🗄️ SQL (`hr_analysis.sql`)
 - Queries for attrition segmentation (Yes vs No)
 - Average monthly income comparison by attrition status
-- Hourly rate analysis by role and gender
+- Attrition rate by department and years since last promotion
 - Best for: data aggregation, filtering large datasets, backend reporting
 
 ### 📈 Tableau (`hr_analysis.twbx`)
@@ -68,12 +92,19 @@ The same HR dataset was analyzed consistently across **four industry-standard to
 ```
 HR-Analytics-Employee-Retention/
 │
-├── 📗 hr_analysis.xlsx          # Excel dashboard & pivot analysis
-├── ⚡ hr_analysis.pbix          # Power BI interactive report
-├── 🗄️ hr_analysis.sql           # SQL queries for HR data analysis
-├── 📈 hr_analysis.twbx          # Tableau workbook & story dashboards
+├── 📗 hr_analysis.xlsx               # Excel dashboard & pivot analysis
+├── ⚡ hr_analysis.pbix               # Power BI interactive report
+├── 🗄️ hr_analysis.sql                # SQL queries for HR data analysis
+├── 📈 hr_analysis.twbx               # Tableau workbook & story dashboards
 ├── 📊 HR_Analysis_Presentation.pptx  # Project presentation slides
-└── 📄 README.md                 # Project documentation (this file)
+├── 📁 screenshots/                   # Dashboard screenshots
+│   ├── excel_dashboard_1.png
+│   ├── excel_dashboard_2.png
+│   ├── powerbi_dashboard.png
+│   ├── tableau_dashboard.png
+│   ├── sql_query_1.png
+│   └── sql_query_2.png
+└── 📄 README.md                      # Project documentation (this file)
 ```
 
 ---
@@ -119,7 +150,6 @@ Insight Generation & Recommendations
 2. **Excel** — Open `hr_analysis.xlsx` in Microsoft Excel (2016 or later recommended)
 3. **Power BI** — Open `hr_analysis.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 4. **Tableau** — Open `hr_analysis.twbx` in [Tableau Public](https://public.tableau.com/) (free) or Tableau Desktop
-
 
 ---
 
