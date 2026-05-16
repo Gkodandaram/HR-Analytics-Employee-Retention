@@ -35,29 +35,6 @@ The same HR dataset was analyzed consistently across **four industry-standard to
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### 📗 Excel Dashboard
-
-![Excel Dashboard 1](screenshots/excel_dashboard_1.png)
-
-![Excel Dashboard 2](screenshots/excel_dashboard_2.png)
-
-### ⚡ Power BI Report
-
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
-
-### 📈 Tableau Dashboard
-
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
-
-### 🗄️ SQL Queries & Results
-
-![SQL Query 1](screenshots/sql_query_1.png)
-
-![SQL Query 2](screenshots/sql_query_2.png)
-
----
 
 ## 🛠️ Tools & Files
 
